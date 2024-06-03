@@ -4722,3 +4722,158 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.06.03-18.30.32:691][526]AssetCheck: New page: Asset Save: multiple assets
 [2024.06.03-18.30.32:691][526]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
 [2024.06.03-18.30.32:692][526]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2024.06.03-18.36.22:460][783]BlueprintLog: New page: Compile NewAnimBlueprint
+[2024.06.03-18.36.22:520][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_18
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0040
+[2024.06.03-18.36.22:520][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_18
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2024.06.03-18.36.22:520][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_18
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:017A
+[2024.06.03-18.36.22:520][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_18
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:01AC
+[2024.06.03-18.36.22:521][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_18
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0040
+[2024.06.03-18.36.22:521][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_18
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2024.06.03-18.36.22:521][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_18
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:017A
+[2024.06.03-18.36.22:521][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_18
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:01AC
+[2024.06.03-18.36.22:522][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_19
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0040
+[2024.06.03-18.36.22:522][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_19
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2024.06.03-18.36.22:522][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_19
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:017A
+[2024.06.03-18.36.22:523][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_10:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.NewAnimBlueprint_C_19
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:01AC
+[2024.06.03-18.36.22:523][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_19
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0040
+[2024.06.03-18.36.22:523][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_19
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2024.06.03-18.36.22:523][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_19
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:017A
+[2024.06.03-18.36.22:523][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_19
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:01AC
+[2024.06.03-18.36.22:589][783]LogUObjectHash: Compacting FUObjectHashTables data took   9.56ms
+[2024.06.03-18.36.22:615][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_19
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0040
+[2024.06.03-18.36.22:615][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_19
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2024.06.03-18.36.22:615][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_19
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:017A
+[2024.06.03-18.36.22:615][783]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_19
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:01AC
+[2024.06.03-18.36.22:650][784]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_19
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:0040
+[2024.06.03-18.36.22:650][784]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_19
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:00EA
+[2024.06.03-18.36.22:650][784]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_19
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:017A
+[2024.06.03-18.36.22:650][784]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	NewAnimBlueprint_C /Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.NewAnimBlueprint_C_19
+	Function /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint_C:ExecuteUbergraph_NewAnimBlueprint:01AC
+[2024.06.03-18.36.23:923][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/AnimationBP/NewAnimBlueprint" FILE="../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Content/BP/AnimationBP/NewAnimBlueprint.uasset" SILENT=true
+[2024.06.03-18.36.23:972][805]LogSavePackage: Moving '../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Saved/NewAnimBlueprint034EE09E4FCBFBCF065373977BB0F13E.tmp' to '../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Content/BP/AnimationBP/NewAnimBlueprint.uasset'
+[2024.06.03-18.36.24:056][805]AssetCheck: New page: Asset Save: NewAnimBlueprint
+[2024.06.03-18.36.24:057][805]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/AnimationBP/NewAnimBlueprint.NewAnimBlueprint
+[2024.06.03-18.36.27:533][886]LogTemp: Repeating last play command: Selected Viewport
+[2024.06.03-18.36.27:553][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.06.03-18.36.27:553][886]PIE: New page: PIE session: NewMap (3 cze 2024, 22:36:27)
+[2024.06.03-18.36.27:555][886]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2024.06.03-18.36.27:560][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005434s)
+[2024.06.03-18.36.27:562][886]LogAIModule: Creating AISystem for world NewMap
+[2024.06.03-18.36.27:563][886]LogPlayLevel: PIE: World Init took: (0.002784s)
+[2024.06.03-18.36.27:563][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.008560s)
+[2024.06.03-18.36.27:630][886]LogUObjectHash: Compacting FUObjectHashTables data took  10.86ms
+[2024.06.03-18.36.27:632][886]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2024.06.03-18.36.27:633][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.06.03-18.36.27:633][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.06.03-18.36.27:633][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.06.03-18.36.27:633][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.06.03-18.36.27:633][886]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.06.03-18.36.27:633][886]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.06.03-18.36.27:633][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.06.03-18.36.27:633][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.06.03-18.36.27:634][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.06.03-18.36.27:634][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.06.03-18.36.27:634][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.06.03-18.36.27:634][886]LogAudioMixer: Display: Initializing audio mixer.
+[2024.06.03-18.36.27:640][886]LogAudioMixer: Display: 0: FrontLeft
+[2024.06.03-18.36.27:640][886]LogAudioMixer: Display: 1: FrontRight
+[2024.06.03-18.36.27:669][886]LogAudioMixer: Display: Using Audio Device Głośnik (Synaptics Audio)
+[2024.06.03-18.36.27:669][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.06.03-18.36.27:669][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.06.03-18.36.27:670][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.06.03-18.36.27:670][886]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.06.03-18.36.27:670][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.06.03-18.36.27:670][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.06.03-18.36.27:673][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.06.03-18.36.27:673][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.06.03-18.36.27:673][886]LogInit: FAudioDevice initialized.
+[2024.06.03-18.36.27:673][886]LogAudio: Display: Audio Device (ID: 48) registered with world 'NewMap'.
+[2024.06.03-18.36.27:684][886]LogLoad: Game class is 'GameModeBase'
+[2024.06.03-18.36.27:687][886]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2024.06.03-20.36.27
+[2024.06.03-18.36.27:687][886]LogWorld: Bringing up level for play took: 0.002139
+[2024.06.03-18.36.27:688][886]LogOnline: OSS: Creating online subsystem instance for: :Context_77
+[2024.06.03-18.36.27:692][886]PIE: Server logged in
+[2024.06.03-18.36.27:693][886]PIE: Play in editor total start time 0,143 seconds.
+[2024.06.03-18.37.00:782][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-18.37.00:782][409]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2024.06.03-18.37.00:782][409]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2024.06.03-18.37.00:783][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-18.37.00:799][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.06.03-18.37.00:815][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.06.03-18.37.00:868][409]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.06.03-18.37.00:868][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.03-18.37.00:870][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.06.03-18.37.00:874][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.06.03-18.37.00:882][409]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2024.06.03-18.37.00:933][410]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2024.06.03-18.37.02:023][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.03-18.37.02:081][434]LogUObjectHash: Compacting FUObjectHashTables data took   7.27ms
+[2024.06.03-18.37.02:099][434]LogSavePackage: Moving '../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Saved/NewMap9E38B4D14D408C3251BB5DA6E7D8CA6F.tmp' to '../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Content/NewMap.umap'
+[2024.06.03-18.37.02:128][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Content/NewMap_BuiltData.uasset" SILENT=true
+[2024.06.03-18.37.02:158][434]LogSavePackage: Moving '../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Saved/NewMap_BuiltData18540443428FB7DC6BD2B4930A08A973.tmp' to '../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Content/NewMap_BuiltData.uasset'
+[2024.06.03-18.37.02:186][434]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.03-18.37.02:187][434]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2024.06.03-18.37.02:187][434]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2024.06.03-18.37.04:395][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.06.03-18.37.04:460][493]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2024.06.03-18.37.04:483][493]LogSavePackage: Moving '../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Saved/NewMap25000E814456A284D3BCFCB41593BC80.tmp' to '../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Content/NewMap.umap'
+[2024.06.03-18.37.04:515][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Content/NewMap_BuiltData.uasset" SILENT=true
+[2024.06.03-18.37.04:544][493]LogSavePackage: Moving '../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Saved/NewMap_BuiltDataC436A4B647945AADB5FAD08B7E3A8202.tmp' to '../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Content/NewMap_BuiltData.uasset'
+[2024.06.03-18.37.04:578][493]AssetCheck: New page: Asset Save: multiple assets
+[2024.06.03-18.37.04:578][493]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2024.06.03-18.37.04:578][493]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2024.06.03-18.37.05:268][511]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2024.06.03-18.37.05:326][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/TopDownShooterGM1" FILE="../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Content/Characters/TopDownShooterGM1.uasset" SILENT=true
+[2024.06.03-18.37.05:339][511]LogSavePackage: Moving '../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Saved/TopDownShooterGM1FA5A2F24401B14B8CD23B691BA5CD706.tmp' to '../../../../../../Users/macie/OneDrive/Dokumenty/GitHub/TDS/TDS/Content/Characters/TopDownShooterGM1.uasset'
+[2024.06.03-18.37.05:523][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.06.03-18.37.05:597][511]LogUObjectHash: Compacting FUObjectHashTables data took   5.65ms
+[2024.06.03-18.37.05:655][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.06.03-18.37.05:679][511]AssetCheck: New page: Asset Save: TopDownShooterGM1
+[2024.06.03-18.37.05:679][511]LogContentValidation: Display: Validating Blueprint /Game/Characters/TopDownShooterGM1.TopDownShooterGM1
