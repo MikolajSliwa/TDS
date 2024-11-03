@@ -5216,3 +5216,21 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.11.03-15.27.34:051][942]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
 [2024.11.03-15.27.34:059][942]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
 [2024.11.03-15.27.34:064][942]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2024.11.03-15.27.34:070][942]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2024.11.03-15.27.34:070][942]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2024.11.03-15.27.34:072][942]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2024.11.03-15.27.34:113][942]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2024.11.03-15.27.34:113][942]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2024.11.03-15.27.34:114][942]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2024.11.03-15.27.34:114][942]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2024.11.03-15.27.34:115][942]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2024.11.03-15.27.34:118][942]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2024.11.03-15.27.34:119][942]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2024.11.03-15.27.34:120][942]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2024.11.03-15.27.34:122][942]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2024.11.03-15.27.34:124][942]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2024.11.03-15.27.34:125][942]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2024.11.03-15.27.34:227][942]LogD3D11RHI: Shutdown
+[2024.11.03-15.27.34:227][942]LogD3D11RHI: CleanupD3DDevice
+[2024.11.03-15.27.34:326][942]LogExit: Exiting.
+[2024.11.03-15.27.34:427][942]Log file closed, 11/03/24 16:27:34
